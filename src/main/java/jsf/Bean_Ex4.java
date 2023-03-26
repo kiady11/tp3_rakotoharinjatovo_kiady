@@ -37,7 +37,7 @@ public class Bean_Ex4 {
     }
 
     public String afficher() {
-        return "affichage__4?nb=" + nombre + "&amp;faces-redirect=true";
+        return "affichage_4?nb=" + nombre + "&amp;faces-redirect=true";
     }
     /**
      * Creates a new instance of Bean_Ex4
